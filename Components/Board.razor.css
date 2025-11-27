@@ -38,3 +38,25 @@ span.container {
     z-index: 5;
     pointer-events: none;
 }
+
+.move-history {
+    margin-top: 1rem;
+    max-width: 30em;
+    max-height: 10rem;
+    overflow-y: auto;
+    font-size: 0.9rem;
+}
+
+.move-history h2 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+}
+
+.move-history ol {
+    padding-left: 1.2rem;
+    margin: 0;
+}
+
+.move-history li {
+    margin-bottom: 0.2rem;
+}

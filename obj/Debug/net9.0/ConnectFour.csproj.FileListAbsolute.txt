@@ -75,5 +75,6 @@ c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\Connec
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\ConnectFour.genruntimeconfig.cache
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\ref\ConnectFour.dll
 c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\scopedcss\Components\Board.razor.rz.scp.css
-c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\compressed\8rgyt56fu5-c2uoo7imot.gz
-c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\compressed\i191p69b07-c2uoo7imot.gz
+c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\ConnectFour.sourcelink.json
+c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\compressed\8rgyt56fu5-a3e10u4grk.gz
+c:\Users\User\OneDrive\Documentos\BYU-I\CSE325\week04\BuildGameWithBlazor\ConnectFour\obj\Debug\net9.0\compressed\i191p69b07-a3e10u4grk.gz
